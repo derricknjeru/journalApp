@@ -2,7 +2,7 @@
 # JournalApp
 A simple journal app created as part of [ALC Project challenge](https://andela.com/alcwithgoogle). It uses MVP (Model View Presenter) pattern and firebase to persist data.
 
-[Download APk](https://github.com/derricknjeru/journalApp/blob/master/art/journal.apk)
+## To check it out [Download APk](https://github.com/derricknjeru/journalApp/blob/master/art/journal.apk)
 
 ## Getting Started
 
