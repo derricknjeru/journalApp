@@ -14,7 +14,7 @@ First off, you require the latest [Android Studio 3.0 (or newer)](https://develo
 Clone the Repository or download [Journal APK](https://github.com/derricknjeru/journalApp/blob/master/art/journal.apk)
 
 ## Deployment
-After cloning the project, [Set up firebase](https://firebase.google.com/docs/android/setup) to get started. This is import since the project uses **Firebase auth** and **Firebase Realtime database**.
+After cloning the project, [Set up firebase](https://firebase.google.com/docs/android/setup) to get started. This is important since the project uses **Firebase auth** and **Firebase Realtime database**.
 
 ## Built With
 
