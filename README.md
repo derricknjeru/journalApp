@@ -18,6 +18,9 @@ Clone the Repository or download [Journal APK](https://github.com/derricknjeru/j
 ## Deployment
 After cloning the project, [Set up firebase](https://firebase.google.com/docs/android/setup) to get started. This is important since the project uses **Firebase auth** and **Firebase Realtime database**.
 
+## Running the tests
+Run test class called RunAllTestSuite
+
 ## Built With
 
 * [Firebase](https://firebase.google.com/) - Used to persist data and support google authentication
