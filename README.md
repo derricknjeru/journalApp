@@ -9,3 +9,5 @@ Below instructions will get you a copy of the project up and running on your loc
 
 First off, you require the latest [Android Studio 3.0 (or newer)](https://developer.android.com/studio) to be able to build the app.
 
+### Installing
+Clone the Repository and run or use [Journal APK]
