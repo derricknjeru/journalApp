@@ -25,6 +25,7 @@ Run test class called RunAllTestSuite
 
 * [Firebase](https://firebase.google.com/) - Used to persist data and support google authentication
 * [Maven](https://maven.apache.org/) - Dependency Management
+* [Espresso](https://developer.android.com/training/testing/espresso/)- for UI tests
 
 ## Contributing
 
