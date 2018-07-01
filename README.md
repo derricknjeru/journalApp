@@ -7,5 +7,5 @@ Below instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-First off, you require the latest Android Studio 3.0 (or newer) to be able to build the app.
+First off, you require the latest [Android Studio 3.0 (or newer)]https://developer.android.com/studio to be able to build the app.
 
