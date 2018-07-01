@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_circle_default">#666666</color>
+    <color name="row_activated">#e0e0e0</color>
+    <color name="icon_tint_normal">#7a7a7a</color>
+    <color name="timestamp">#4285f4</color>
+    <color name="description_color">#7a7a7a</color>
+    <color name="title_color">#111111</color>
+    <!-- login Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+</resources>

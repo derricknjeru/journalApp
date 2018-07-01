@@ -1,0 +1,24 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="timestamp">9sp</dimen>
+    <dimen name="icon_label">25dp</dimen>
+    <dimen name="icon_text">22dp</dimen>
+    <dimen name="icon_width_height">40dp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="description_size">14sp</dimen>
+    <dimen name="padding_list_row">16dp</dimen>
+    <dimen name="padding_desc_right">56dp</dimen>
+    <dimen name="icon_label_width">16dp</dimen>
+    <dimen name="icon_label_height">16dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="collapsing_tool_bar_size">12sp</dimen>
+    <dimen name="local_library_dim">64dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">18sp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+    <dimen name="time_label">16dp</dimen>
+    <dimen name="expanded_toolbar_height">150dp</dimen>
+</resources>

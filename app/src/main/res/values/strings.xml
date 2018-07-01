@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">Journal App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="welcome" translatable="false">Welcome</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_loading_journal">Error occurred while loading journal</string>
+    <string name="no_journals">You have no journals</string>
+    <string name="title_activity_add_journal">AddJournalActivity</string>
+
+    <string name="add_journal">NEW JOURNAL</string>
+    <string name="edit_journal">EDIT JOURNAL</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Write your story here</string>
+    <string name="empty_journal_message">Title or Description is Empty</string>
+    <string name="date_hint">Set date</string>
+    <string name="date_time">Set time</string>
+
+    <string name="login_title">Cherish your best moments</string>
+    <string name="login_desc">Revisit moments of your life anytime</string>
+    <string name="successfully_saved_journal_message">Journal saved</string>
+    <string name="title_activity_journal_detail">JournalDetailActivity</string>
+    <string name="no_data">No data</string>
+    <string name="loading">LOADING</string>
+    <string name="journal_details">Journal details</string>
+    <string name="action_delete">Delete</string>
+
+</resources>
