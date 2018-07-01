@@ -27,5 +27,7 @@
     <string name="loading">LOADING</string>
     <string name="journal_details">Journal details</string>
     <string name="action_delete">Delete</string>
+    <string name="desc">Desc</string>
+    <string name="description">Description</string>
 
 </resources>

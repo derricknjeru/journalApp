@@ -66,8 +66,9 @@
                         android:maxLines="1"
                         android:textColor="#80ffffff"
                         android:textSize="15dp"
+                        android:text="@string/login_desc"
                         android:visibility="gone"
-                        tool:text="Subtitle" />
+                        tool:text="@string/desc" />
                 </LinearLayout>
             </com.derrick.collapsingbar.CollapsingAvatarToolbar>
 
